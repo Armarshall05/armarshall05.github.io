@@ -6,5 +6,5 @@ Hello and welcome to my blog. I'm a consumate tinkerer and life long learner.  M
 
 Fast.ai is a tremendous resource that I have learned a lot from.
 
-[link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[fast.ai](https://www.fast.ai).  
 
